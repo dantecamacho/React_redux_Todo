@@ -1,1 +1,14 @@
 Progresive web apps
+-no es necesario
+
+Dos tipos de componentes en Reacct
+
+1. Statefull componentes
+-class
+-state
+-Lifecycle Methods
+
+2. Stateless components (functional components)
+-Functions
+-No state
+-No lifeycle Methods
